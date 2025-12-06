@@ -34,7 +34,15 @@ The dashboard provides insights into four key areas:
 
 ## 🚀 Quick Start
 
-### Viewing the Dashboard
+### 🌐 Public Access (Recommended)
+
+The visualizations are configured for **GitHub Pages** deployment:
+
+**Live Dashboard:** `https://cdoan2026.github.io/OCS-Study/`
+
+To enable public access, see the [Deployment Guide](DEPLOYMENT.md) for step-by-step instructions.
+
+### 💻 Local Viewing
 
 1. **Open the main dashboard:**
    ```bash
@@ -140,13 +148,37 @@ These visualizations can be used for:
 - **Majors:** 73 unique majors
 - **Null Values:** Some records have missing data in PROGRAM, LOCATION, or COUNTRY fields
 
+## 🌍 Deployment & Public Access
+
+This repository is configured for easy deployment to make visualizations publicly accessible.
+
+### Quick Deploy Options:
+
+1. **GitHub Pages (Free & Easy)** 🌟 Recommended
+   - See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions
+   - Automatic deployment via GitHub Actions
+   - URL: `https://cdoan2026.github.io/OCS-Study/`
+
+2. **Netlify (Free Alternative)**
+   - One-click deployment with continuous integration
+   - Custom domain support
+   - Password protection available
+
+3. **Vercel (Free Alternative)**
+   - Instant deployment from GitHub
+   - Excellent performance
+   - Custom domain support
+
+For complete deployment instructions, see **[DEPLOYMENT.md](DEPLOYMENT.md)**
+
 ## 🤝 Contributing
 
 To update or enhance the visualizations:
 
 1. Modify `create_visualizations.py`
 2. Run the script to regenerate visualizations
-3. Commit changes to the repository
+3. Commit and push changes to the repository
+4. GitHub Pages will automatically redeploy (if enabled)
 
 ## 📧 Questions or Issues?
 
