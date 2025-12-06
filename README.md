@@ -153,7 +153,6 @@ To update or enhance the visualizations:
 For questions about the data or visualizations, please contact the DePauw University Office of Off-Campus Study.
 
 ---
-
-**Generated:** December 6, 2025
 **Data Source:** OCS_Working2.xlsx
-**Visualization Tool:** Plotly (Interactive HTML charts)
+**Visualization Tool:** Plotly
+
