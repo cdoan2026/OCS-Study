@@ -1,0 +1,61 @@
+
+OCS STUDY ABROAD DATA - SUMMARY STATISTICS
+============================================
+Generated: December 06, 2025 at 22:09:48
+
+DATASET OVERVIEW:
+-----------------
+Total Records: 9,104
+Date Range: 1999 - 2028
+Unique Programs: 673
+Unique Countries: 74
+Unique Majors: 73
+
+TOP 10 PROGRAMS (ALL TIME):
+---------------------------
+PROGRAM
+Ies                          137
+Chamber Symphony Tour        125
+Servicio                     118
+Life After Mandela            97
+Ciee                          86
+Scientific Revolutions        85
+Sit                           81
+University Of Westminster     76
+Dis                           71
+New York Arts Program         64
+
+TOP 10 COUNTRIES (ALL TIME):
+----------------------------
+COUNTRY
+England          306
+United States    222
+Spain            197
+Italy            144
+Scotland         136
+Denmark          113
+Australia        107
+Ireland          100
+France            99
+New Zealand       80
+
+TOP 10 MAJORS (ALL TIME):
+-------------------------
+MAJOR
+Communication        1158
+English               999
+Economics             873
+Psychology            494
+Political Science     477
+Computer Science      406
+History               350
+Biochemistry          304
+Biology               292
+Performance           291
+
+PARTICIPATION BY TIME PERIOD:
+-----------------------------
+Last 5 years (2020-2025): 2,614 participants
+Last 10 years (2015-2025): 4,765 participants
+Last 15 years (2010-2025): 5,436 participants
+Last 20 years (2005-2025): 6,301 participants
